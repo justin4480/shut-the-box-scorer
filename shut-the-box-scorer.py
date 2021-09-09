@@ -1,6 +1,6 @@
+import os
 import random
 import numpy as np
-import os
 
 os.system('cls' if os.name == 'nt' else 'clear')
 player1 = input('enter player 1 name: ')
